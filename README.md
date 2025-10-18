@@ -12,6 +12,10 @@ A Simple, responsive profile card built with html, css, javascript.
 - Social link with security attribute
 - All required data-testid attribute
 
+# Github Repository
+
+https://github.com/danielndu890/G.git
+
 ## Technology Used
 
 - Html
@@ -22,4 +26,6 @@ A Simple, responsive profile card built with html, css, javascript.
 
 - Clone the repository :
 
-- Open index.html in your browser
+https://github.com/danielndu890/G
+
+- Open the public folder and run index.html in your browser
