@@ -12,6 +12,10 @@ A Simple, responsive profile card built with html, css, javascript.
 - Social link with security attribute
 - All required data-testid attribute
 
+# Deployment
+
+https://dreamy-squirrel-c966a7.netlify.app
+
 # Github Repository
 
 https://github.com/danielndu890/G.git
