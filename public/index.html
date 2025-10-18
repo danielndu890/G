@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Profile Card</title>
+    <link rel="stylesheet" href="./index.css" />
+  </head>
+  <body>
+    <article class="profile-card" data-testid="test-profile-card">
+      <div class="card-content">
+        <img
+          src="./img.jpeg"
+          alt="profile-photo"
+          data-testid="test-user-avatar"
+          class="avatar"
+        />
+        <div class="info">
+          <h2 data-testid="test-user-name">Daniel Ndubuisi</h2>
+          <p data-testid="test-user-bio">
+            I'm a Frontend Developer who is passionate about designing friendly
+            and beautiful user-centered-interface.
+          </p>
+          <div data-testid="test-user-time" class="time" id="current-time"></div>
+            <nav>
+              <ul data-testid="test-user-social-link" class="social-link">
+                <li>
+                  <a
+                    href="https://www.twitter.com/user"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    data-testid="test-user-social-twitter"
+                  >
+                    Twitter
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://github.com/danielndu890/hng-repo-Backend.git"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    data-testid="test-user-social-github"
+                  >
+                    Github
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://www.Linkedin.com/in/daniel-ndubuisi-2b251a38b"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    data-testid="test-user-social-linkedin"
+                  >
+                    Linkedin
+                  </a>
+                </li>
+              </ul>
+            </nav>
+            <div class="list">
+              <section>
+                <h3>Hobbies:</h3>
+                <ul data-testid="test-user-hobbies">
+                  <li>Coding</li>
+                  <li>Basketball</li>
+                  <li>Innovation</li>
+                </ul>
+              </section>
+
+              <section>
+                <h3>Dislikes:</h3>
+                <ul data-testid="test-user-dislikes">
+                  <li>Bugs</li>
+                  <li>Fear</li>
+                  <li>Negativity</li>
+                </ul>
+              </section>
+            </div>
+          </div>
+        </div>
+      </div>
+    </article>
+    <script src="./index.js"></script>
+  </body>
+</html>
