@@ -49,11 +49,11 @@ This project is a continuation of stage 0 task and we are to add multipage websi
 
 # Deployment
 
-https://dreamy-squirrel-c966a7.netlify.app
+lambent-halva-8d95af.netlify.app
 
 # Github Repository
 
-lambent-halva-8d95af.netlify.app
+https://github.com/danielndu890/G
 
 ## Technology Used
 
