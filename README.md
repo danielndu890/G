@@ -47,6 +47,28 @@ This project is a continuation of stage 0 task and we are to add multipage websi
 - success feedback
 - error handling
 
+# Deployment
+
+https://dreamy-squirrel-c966a7.netlify.app
+
+# Github Repository
+
+https://github.com/danielndu890/G.git
+
+## Technology Used
+
+- Html
+- css
+- Vanilla Javascript
+
+## Run locally
+
+- Clone the repository :
+
+https://github.com/danielndu890/G
+
+- Open the public folder and run index.html in your browser
+
 ## About me page
 
 - sementic html structure ('main, section')
