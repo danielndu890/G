@@ -53,7 +53,7 @@ https://dreamy-squirrel-c966a7.netlify.app
 
 # Github Repository
 
-https://github.com/danielndu890/G.git
+lambent-halva-8d95af.netlify.app
 
 ## Technology Used
 
