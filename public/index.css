@@ -16,6 +16,43 @@ body{
     min-height: 100vh;
 }
 
+header{
+    background-color:#ecdfd2;
+    color: #333;
+    height: 55px;
+}
+
+.main{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding-top: 5x;
+
+
+}
+
+a{
+    color:#5e5653;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bold;
+    transition: color 0.3s ease-in;
+   
+ 
+}
+
+.main li{
+    margin-left: 20px;
+}
+a:hover{
+    color: #f72;
+}
+
+
+
+
 .profile-card{
     background-color: #fff;
     color: #333;
@@ -61,6 +98,7 @@ body{
     justify-content: center;
     gap: 10px;
     margin-bottom: 20px;
+    
 }
 
 .social-link a{
@@ -91,6 +129,8 @@ section ul{
     color: #555;
 }
 
+
+
 section li{
     padding: 4px 0px;
     border-bottom: 1px solid #eee;
@@ -115,6 +155,18 @@ section li{
         grid-template-columns: 1fr 1fr;
        
     }
+
+    
+    nav .main{
+        text-align: center;
+        padding-top: 10px;
+        gap: 25px;
+        position: relative;
+        left: 45px;
+        
+    }
+
+   
 }
 
 @media(max-width: 1024px){
@@ -129,4 +181,10 @@ section li{
         width: 140px;
         height: 140px;
     }
+
+    nav .main{
+        text-align: center;
+        padding-top: 10px;
+        gap: 35px;
+}
 }

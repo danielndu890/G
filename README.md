@@ -11,6 +11,7 @@ A Simple, responsive profile card built with html, css, javascript.
 - Current time in milliseconds
 - Social link with security attribute
 - All required data-testid attribute
+-
 
 # Deployment
 
@@ -33,3 +34,27 @@ https://github.com/danielndu890/G.git
 https://github.com/danielndu890/G
 
 - Open the public folder and run index.html in your browser
+
+# Frontend Stage 1 Task
+
+## Project Description
+
+This project is a continuation of stage 0 task and we are to add multipage website(contact us, about us)page.
+
+## key details:
+
+- Form validation
+- success feedback
+- error handling
+
+## About me page
+
+- sementic html structure ('main, section')
+- reflective content
+- all required section with a data-testid attribute
+
+## contact page
+
+- form validation
+- all required section with a data-testid attribute
+- success message display
